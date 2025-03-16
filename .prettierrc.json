@@ -1,7 +1,16 @@
-{
-    "trailingComma": "es5",
-    "tabWidth": 2,
-    "semi": false,
-    "singleQuote": true,
-    "endOfLine":"lf"
-}
+// const outputPath = path.join(os.homedir(), 'Desktop')
+      // ytdl(url).pipe(
+      //   fs.createWriteStream(path.resolve(outputPath, 'video.mp4'))
+      // )
+      // stream
+      // let starttime = Date.now()
+      // stream.once('response', () => {
+      //   starttime = Date.now()
+      // })
+      // stream.on('progress', (chunkLength, downloaded, total) => {
+      //   const percent = downloaded / total
+      //   const downloadedMinutes = (Date.now() - starttime) / 1000 / 60
+      //   const estimatedDownloadTime =
+      //     downloadedMinutes / percent - downloadedMinutes
+      //   this.timeleft = estimatedDownloadTime
+      // })
